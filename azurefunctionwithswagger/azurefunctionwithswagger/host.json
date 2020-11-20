@@ -2,9 +2,13 @@
   "version": "2.0",
   "openApi": {
     "info": {
-      "version": "3.0.0",
+      "version": "1.0.0",
       "title": "Echo",
-      "description": "Returns the input value in the output"
+      "description": "Returns the input value in the output",
+      "license": {
+        "name": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+      }
     }
   }
 }

@@ -1,7 +1,11 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "OpenApi__Info__Version": "3.0.0",
-    "OpenApi__Info__Title": "Echo"
+    "OpenApi__Info__Version": "1.0.0",
+    "OpenApi__Info__Title": "Echo",
+    "OpenApi__Info__License__Name": "MIT"
   }
 }
+
+
+
